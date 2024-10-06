@@ -1,24 +1,24 @@
 baseurl: '/'
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'NetRoot'
 
 logo:
   mobile: "images/logo/logo.png"
   mobile_height: "32px"
   mobile_width: "64px"
   desktop: "images/logo/logo.png"
-  desktop_height: "60px"
-  desktop_width: "120px"
+  desktop_height: "70px"
+  desktop_width: "130px"
 
 home: 
-  limit_services: 6
+  limit_services: 4
 
 collections:
   services:
     output: true
     sort_by: weight
   team:
-    output: true
+    output: false
 
 defaults:
   - scope:
