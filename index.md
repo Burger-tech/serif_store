@@ -12,4 +12,4 @@ show_call_box: true
 
 The NetRoot Store.
 
-#### To purchase our survices, please email me at tyler@bergsmaservers.win, or talk to me in-person if you can.
+#### To purchase our services, please email me at tyler@bergsmaservers.win, or talk to me in-person if you can.
