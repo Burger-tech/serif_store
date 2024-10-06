@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: true
 
 # Services that chnage depending on what you need
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+NetRoot offers a wide variety of services. Depending on what you need, we may already have templates and suggestions for certain services, but if you need a special service (one that we haven't yet encountered), please email me at tyler@bergsmaservers.win.
